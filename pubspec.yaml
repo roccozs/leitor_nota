@@ -1,18 +1,22 @@
-name: flutter_image_picker
+name: MilAte2019
 description: A new Flutter application.
 
 dependencies:
-  flutter:
-    sdk: flutter
+  #flutter:
+  #  sdk: flutter
+  #flutter_image_picker:
+  #sdk: flutter
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
-  image_picker:
+  image_picker: ^0.4.10
+  http: ^0.12.0
 
-dev_dependencies:
-  flutter_test:
-    sdk: flutter
+#dev_dependencies:
+#  flutter_test:
+#    sdk: flutter
+  #  sdk: flutter
 
 
 # For information on the generic Dart part of this file, see the
